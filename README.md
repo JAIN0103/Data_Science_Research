@@ -1,5 +1,7 @@
 # Data_Science_Research
 
+Research on the effects of adding Noise (Gaussian & Laplace) to a dataset. Error calculations to analyze effects. The goal is to preserve patterns in the dataset while maintaining privacy of individuals in the dataset.
+
 In main.py:
 
 gaussian_mech() adds gaussian noise to the dataset
